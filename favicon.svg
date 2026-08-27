@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="911 Plumbing Service 4 Less">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e63a3a"/>
+      <stop offset="1" stop-color="#a8151b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <path d="M20 10h10v11H20z" fill="#fff"/>
+  <path d="M15 21h20v8H15z" fill="#fff"/>
+  <path d="M25 29h5v12a9 9 0 0 0 9 9h11v-8H39a1 1 0 0 1-1-1V29h-5v12a4 4 0 0 1-4 4h-1a4 4 0 0 1-4-4V29z" fill="#fff" opacity=".72"/>
+</svg>
